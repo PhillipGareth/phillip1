@@ -6,9 +6,9 @@
 </head>
 <body>
     <div class="container mt-5">
-        <h1 class="text-center mb-4">All Posts</h1>
+        <h1 class="text-center mb-4">All BLOGS</h1>
         <div class="text-right mb-3">
-            <a href="/posts/create" class="btn btn-primary">Create New Post</a>
+            <a href="/posts/create" class="btn btn-primary">Create New Blogs</a>
         </div>
         <table class="table table-bordered">
             <thead class="thead-dark">
